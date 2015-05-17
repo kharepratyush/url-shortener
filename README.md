@@ -12,4 +12,4 @@ TO RUN ON YOUR SYSTEM:
 
 Backend : PHP, MySQL
 
-Demo : shorten.byethost7.com
+Demo : https://shorten.byethost7.com
